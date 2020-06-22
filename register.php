@@ -67,7 +67,7 @@ include('login.php');
                                     <input type="password" class="form-control" placeholder="Password" name="ppname">
                                 </div>
 
-                                <input type="submit" value="Login" class="btn btn-primary" name="submit">
+                                <input type="submit" value="Log-in" class="btn btn-primary" name="submit">
 
                             </div>
                         </form>
